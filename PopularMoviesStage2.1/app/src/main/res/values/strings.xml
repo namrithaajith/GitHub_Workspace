@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_mostpopular" translatable="false">Most Popular</string>
+    <string name="action_highestrated" translatable="false">Highest Rated</string>
+    <string name="action_favorites" translatable="false">My Favorites</string>
+        <string name="title_movie_list">Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+
+    <string name="action_share">Share trailer</string>
+
+</resources>
